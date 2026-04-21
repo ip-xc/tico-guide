@@ -60,7 +60,6 @@
 | **Resident Evil: The Dark Side Chronicles** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs okay, Gameplay 25-30 FPS. |
 | **Serius Sam: Next Encounter** | GameCube | Nintendo Switch V1 | (US) | 🟢 | Runs near perfect, infrequent stutters due to cache. |
 | **Shadow the Hedghehog (& Reloaded)** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, Gameplay 2-10 FPS. |
-| **Shadow the Hedghehog (& Reloaded)** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, Gameplay 2-10 FPS. |
 | **Shiren The Wanderer** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, FMV very slow. |
 | **Shrek 2** | GameCube | Nintendo Switch V1 | (PAL) | 🟠 | Runs poorly, wait for cache. |
 | **Skies of Arcadia: Legends** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs okay, low FPS FMV. Need more testing. |
@@ -88,7 +87,6 @@
 | **Tony Hawks: Underground 2** | GameCube | Nintendo Switch V1 | (EU) | 🔴 | Crashes on startup. |
 | **Ultimate Spider-Man** | GameCube | Nintendo Switch V1 | - | 🔴 | Crashes on startup. |
 | **Wario World** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
-| **Wario: Shake It** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs great, FMV is laggy. Need Wiimotion Controls. |
 | **Wario: Shake It** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs great, FMV is laggy. Need Wiimotion Controls. |
 | **Wave Race: Blue Storm** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, Dolphin Park Freeroam tested. |
 | **Wii Party** | Wii | Nintendo Switch V1 | - | 🟠 | Runs meh, Gameplay is okay, some stutters on minigames on Board Game Island. |
