@@ -23,7 +23,7 @@
 | **Capcom vs. SNK 2** | GameCube | Nintendo Switch V1 | (EU/US) | 🔴 | Black screen. |
 | **Chibi Robo** | GameCube/Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs great, Open area bit stuttering. Need higher clock?. |
 | **Digimon World 4** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
-| **Dragon Ball Z: Budokai Tenkaichi 2** | Dolphin | Nintendo Switch V1 | - | 🔴 | Crashes on startup. |
+| **Dragon Ball Z: Budokai Tenkaichi 2** | Dolphin | Nintendo Switch V1 | (US) | 🔴 | Crashes on startup. |
 | **Dragon Ball Z: Budokai Tenkaichi 3** | Dolphin | Nintendo Switch V1 | - | 🟢 | Runs near perfect with stock clock. |
 | **Earth Seeker** | Wii | Nintendo Switch V1 | (JP-Translation) | 🟡 | Runs okay, FMV Slow, Gameplay 15-20 FPS. |
 | **Fire Emblem: Path of Radiance** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs okay, low FPS FMV. Need more testing. |
