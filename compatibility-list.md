@@ -1,7 +1,5 @@
 ### 🔍 Detailed Status Definitions:
 
-When filing a report, please choose the correct status for each shadPS4 version:
-
 * 🟢 **Perfect** — The game runs well from start to finish with no major issues.
 * 🟡 **Playable** — Game works and is playable with minor visual glitches, bugs and infrequent slowdowns.
 * 🟠 **Runs** — The game starts and you can play, but there are glitches, performance issues, or crashes.
