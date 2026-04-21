@@ -30,15 +30,12 @@ For further details about tico, please visit their [Github repository](https://g
 # Deployment
 1. First, download the **latest** Release of tico from [Github here](https://github.com/ticohq/tico/releases).
 
-<div><img width="1024" src="placeholder" alt="first"> </div>
 
 2. Connect to your Nintendo Switch and open the SD cards root folder "/".
 
-<div><img width="1024" src="placeholder" alt="second"></div>
 
 3. **Extract and copy** the files from "**tico-release.zip**" inside the "**SD card**".
 
-<div><img width="1024" src="placeholder" alt="third"></div>
 
 4. When it's done, you can run it from **hbmenu** (Click on **Album while holding R**).
 
@@ -47,6 +44,34 @@ For further details about tico, please visit their [Github repository](https://g
 < COMING SOON >
 
 # FAQs
+
+## What is the folder structure supposed to look like?
+
+```plain
+/sdmc/                                          
+├── /tico/                                     
+│   ├── /roms/                         <-- ROMs folder
+│   │   ├── /gba/                      <-- Console
+│   │   │   ├── game1.gba              <-- ROM for corresponding console
+│   │   │   └── ..
+│   │   ├── /wii/
+│   │   │   ├── game1.iso
+│   │   │   └── ..
+│   │   ├── /gc/
+│   │   │   ├── game1.iso
+│   │   │   └── ..
+│   ├── /system/
+│   │   ├── /psx/                      <-- Console folder
+│   │   │   ├── bios.bin               <-- BIOS for corresponding console
+│   │   └── ..
+│   ├── /cores/                        <-- Cores folder
+│   │   ├── /<EMULATOR-tiicu>/         <-- Emulator for corresponding console
+│   │   │   └── <EMULATOR-ticuu.nro    <-- Core for corresponding console
+│   │   ├── /<EMULATOR-tiicu>/
+│   │   │   └── <EMULATOR-ticuu.nro
+│   ├── ..
+│   │   │
+```
 
 ## Where do I download ROMs and BIOS?
 
@@ -79,32 +104,6 @@ A: Be sure that your time settings are correctly set to the current date/time.
 ## My ROMs are not being found?
 
 A: Check your ROMs folder on your SD card. The file layout is supposed to look like this:
-
-```plain
-/sdmc/                                          
-├── /tico/                                     
-│   ├── /roms/                         <-- ROMs folder
-│   │   ├── /gba/                      <-- Console
-│   │   │   ├── game1.gba              <-- ROM for corresponding console
-│   │   │   └── ..
-│   │   ├── /wii/
-│   │   │   ├── game1.iso
-│   │   │   └── ..
-│   │   ├── /gc/
-│   │   │   ├── game1.iso
-│   │   │   └── ..
-│   ├── /system/
-│   │   ├── /psx/                      <-- Console folder
-│   │   │   ├── bios.bin               <-- BIOS for corresponding console
-│   │   └── ..
-│   ├── /cores/                        <-- Cores folder
-│   │   ├── /<EMULATOR-tiicu>/         <-- Emulator for corresponding console
-│   │   │   └── <EMULATOR-ticuu.nro    <-- Core for corresponding console
-│   │   ├── /<EMULATOR-tiicu>/
-│   │   │   └── <EMULATOR-ticuu.nro
-│   ├── ..
-│   │   │
-```
 
 If it looks good, Rescan the games when you hover over the system and click on **Rescan Games**.
 
