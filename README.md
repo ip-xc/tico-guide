@@ -107,5 +107,12 @@ A: Check your ROMs folder on your SD card. The file layout is supposed to look l
 
 If it looks good, Rescan the games when you hover over the system and click on **Rescan Games**.
 
+## How do I setup SteamGridDB and RetroAchievements?
+
+A: 
+
+1. For **teamGridDB** you have to register [on the SteamGridDB Website](https://www.steamgriddb.com/). Once you've registered, go to **Preferences** --> API and create an API key. Use this in either Settings in the tico-App or edit the **config** ```der sdmc:/tico/config/accounts.jsonc```.
+2. For **RetroAchievements** you have to register[on the RetroAchievements Website](https://retroachievements.org/). Once you've registered, go to **Settings** and scroll down until you see **Web API Key** and register it there. After that, enter your API Key, Username and Password inside the tico-App or edit the **config** ```der sdmc:/tico/config/accounts.jsonc```.
+
 # Credits
 tico for creating the frontend including custom cores - [Github repository](https://github.com/ticohq) or their [Website](https://ticoverse.com/).
