@@ -10,10 +10,11 @@ This guide tries to be as hands-on as possible and cover most questions along th
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#deployment">Deployment</a> •
   <a href="#usage">Usage</a> •
+  <a href="#faqs">Frequently Asked Questions</a> •
   <a href="#credits">Credits</a> •
 </p>
 
-## About
+# About
 This is a small guide that helps you start a small media server on your local network, incorperating local files stored on your Synology NAS and using the Gelato plugin to fetch media with your debrid account.
 
 For further details about tico, please visit their [Github repository](https://github.com/ticohq/tico).
@@ -21,12 +22,12 @@ For further details about tico, please visit their [Github repository](https://g
 | :warning: At the time of this guide I am running HOS 22.1.0 and tico 0.7.0. This guide might be subject to change. |
 | --- |
 
-## Prerequisites 
+# Prerequisites 
 
 * **A compatible Nintendo Switch** --> please refer to one of the dozens of setup guides to see the supported models (V1, Lite & OLED).
 * A way to **write and modify files** on your Switch (MTP, FTP..).
 
-## Deployment
+# Deployment
 1. First, download the **latest** Release of tico from [Github here](https://github.com/ticohq/tico/releases).
 
 <div><img width="1024" src="placeholder" alt="first"> </div>
@@ -39,28 +40,73 @@ For further details about tico, please visit their [Github repository](https://g
 
 <div><img width="1024" src="placeholder" alt="third"></div>
 
-4. Press **"Next"** to start the project. When it's done running and created the container, you can visit your Jellyfin instance via **http://<IP_OF_NAS>:8096/**.
+4. When it's done, you can run it from **hbmenu** (Click on **Album while holding R**).
 
-5. Create your Administrator and go to your admin overview to add a library for your movies and shows.
+# Usage
 
-<div><img width="1024" src="/Guide/metadata.png" alt="metadata"></div>
-<div><img width="1024" src="/Guide/shows_1.png" alt="shows"></div>
+< COMING SOON >
 
-Do **NOT** use the folders containing your existing media for Gelato. Always create a new folder!
+# FAQs
 
-Also keep in mind, that for the Metadata downloaders, "**TheMovieDb**" should be **OVER** "**The Open Movie Database**".
+## Where do I download ROMs and BIOS?
 
-6. Scan the library after adding the Gelato paths.
+A: You have to dump the data from your legally owned system.
 
-7. Install the Gelato plugin. Add the repository as a custom repository to Jellyfin. It takes up to 30 minutes to have the plugin show up as available.
+## Where do I put my ROMs?
 
-```https://raw.githubusercontent.com/lostb1t/Gelato/refs/heads/gh-pages/repository.json```
+A: Your ROMs are put into **sdmc:/tico/roms/<SYSTEM>**. [See here for supported ROIM formats.](https://ticoverse.com/wiki/library-and-roms/supported-rom-formats).
 
-<div><img width="1024" src="/Guide/4.png" alt="four"></div>
+## What are Cores and how do I install them?
 
-8. After installing Gelato, you have to configure the plugin. [Please refer to the Setup Guide by @lostb1t](https://github.com/lostb1t/Gelato/discussions/40)
+A: Cores are "plug-in"-emulators that know how to run certain games for the corresponding system. You can install the Cores via **Emulator** inside **Settings**.
 
-## Credits
-The Jellyfin-Team, for creating this awesome fork - [Github repository](https://github.com/jellyfin/jellyfin) or their [Website](https://jellyfin.org/).
+## I cannot find Dolphin and GameCube!
 
-lostb1t for creating Gelato, please visit their [Github repository](https://github.com/lostb1t/Gelato).
+A: You have to enable Dolphin under **Experimental**.
+
+## My GameCube games run slow!
+
+A: Try letting it sit idle once to compile shaders. If the game crashes, try a second time. The build is still in alpha.
+
+## My PSX / Dreamcast / Sega devices won't run!
+
+A: You need the proper BIOS file for the system and put them inside **sdmc:/tico/system/<SYSTEM>**.
+
+## I get an SSL / SSH error when downloading Covers / Cores / etc.
+
+A: Be sure that your time settings are correctly set to the current date/time.
+
+## My ROMs are not being found?
+
+A: Check your ROMs folder on your SD card. The file layout is supposed to look like this:
+
+```plain
+/sdmc/                                          
+├── /tico/                                     
+│   ├── /roms/                         <-- ROMs folder
+│   │   ├── /gba/                      <-- Console
+│   │   │   ├── game1.gba              <-- ROM for corresponding console
+│   │   │   └── ..
+│   │   ├── /wii/
+│   │   │   ├── game1.iso
+│   │   │   └── ..
+│   │   ├── /gc/
+│   │   │   ├── game1.iso
+│   │   │   └── ..
+│   ├── /system/
+│   │   ├── /psx/                      <-- Console folder
+│   │   │   ├── bios.bin               <-- BIOS for corresponding console
+│   │   └── ..
+│   ├── /cores/                        <-- Cores folder
+│   │   ├── /<EMULATOR-tiicu>/         <-- Emulator for corresponding console
+│   │   │   └── <EMULATOR-ticuu.nro    <-- Core for corresponding console
+│   │   ├── /<EMULATOR-tiicu>/
+│   │   │   └── <EMULATOR-ticuu.nro
+│   ├── ..
+│   │   │
+```
+
+If it looks good, Rescan the games when you hover over the system and click on **Rescan Games**.
+
+# Credits
+tico for creating the frontend including custom cores - [Github repository](https://github.com/ticohq) or their [Website](https://ticoverse.com/).
