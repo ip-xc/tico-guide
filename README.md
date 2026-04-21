@@ -4,6 +4,9 @@ tico is the first custom emulation frontend for Nintendo Switch - a controller-f
 
 This guide tries to be as hands-on as possible and cover most questions along the way.
 
+| :warning: Compatibility list: <a href="/compatibility-list.md">Compatibility list</a> |
+| --- |
+
 <!-- Table of Contents -->
 <p align="center">
   <a href="#about">About</a> •
