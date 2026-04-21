@@ -15,7 +15,7 @@ This guide tries to be as hands-on as possible and cover most questions along th
 </p>
 
 # About
-This is a small guide that helps you start a small media server on your local network, incorperating local files stored on your Synology NAS and using the Gelato plugin to fetch media with your debrid account.
+This guide is made from community feedback from the tico Discord.
 
 For further details about tico, please visit their [Github repository](https://github.com/ticohq/tico).
 
