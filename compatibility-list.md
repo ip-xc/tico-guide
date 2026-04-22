@@ -27,6 +27,7 @@
 | **Ben 10: Omniverse** | Wii | Nintendo Switch V1 | (US) | 🟡 | Runs great, few slowdowns. |
 | **Beyond Good & Evil** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, Gameplay decent FPS. |
 | **Bloody Roar Primal Fury** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, few minor stutters. |
+| **Bully** | Wii | Nintendo Switch V1 | (EU) | 🟠 | Runs very poorly, FMV full-speed, Gameplay ~10 FPS. |
 | **Call of Duty: Black Ops (Single Player)** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, some stutters and slow-down. |
 | **Call of Duty: Black Ops (Zombies)** | GameCube | Nintendo Switch V1 | (US) | 🔴 | Stuck at loading screen. |
 | **Call of Duty: Finest Hour** | GameCube | Nintendo Switch Lite | - | 🟠 | Runs poorly, Gameplay 10-15 FPS. |
@@ -40,6 +41,7 @@
 | **Ed, Edd n Eddy: The Mis-Edventures** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, some slowdowns to 30-40 FPS. |
 | **F1: 2002** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, some slowdowns when NPC pile up. |
 | **Fire Emblem: Path of Radiance** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, low FPS FMV. Need more testing. |
+| **Geist** | GameCube | Nintendo Switch V1 | (PAL) | 🔴 | ROM.fvz crashes. |
 | **GUN** | GameCube | Nintendo Switch Lite | - | 🔴 | Black screen. |
 | **Guitar Hero: 5** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, Controller remapping required. |
 | **Godzilla: Destroy All Monsters Melee** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, some slowdowns when environment destruction happens / big open areas. |
@@ -71,12 +73,14 @@
 | **Need For Speed: Hot Pursuit** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs okay, few slowdowns and visual glitches in the menu, Gameplay 25-30 FPS. |
 | **Need For Speed: Hot Pursuit 2** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, few slowdowns awhen crashes, Gameplay 28-30 FPS. |
 | **Need For Speed: Most Wanted** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 10-15 FPS. |
+| **Need For Speed: Nitro** | Wii | Nintendo Switch V1 | (PAL) | 🟠 | Runs poorly, .iso crashes, .fvz Gameplay 10-20 FPS. |
 | **Need For Speed: Undergound 2** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 10-15 FPS. |
 | **New Super Mario** | Wii | Nintendo Switch V1 | - | 🟡 | Runs okay, FMV some slowdowns, Gameplay ~30 FPS. |
 | **P.N. 03** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, Gameplay decent FPS. |
 | **Paper Mario: The Thousand-Year Door** | GameCube | Nintendo Switch V1 | (US) | 🔴 | Crashes on startup. |
 | **Phantasy Star Online 1-2** | GameCube | Nintendo Switch V1 | (EU/US) | 🔴 | Runs EULA & Time Settings, black screen. |
 | **Pokémon: Colosseum** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 5-10 FPS. |
+| **Poképark: Pikachu's Adventure** | Wii | Nintendo Switch V1 | - | 🔴 | Crashes on after intro. |
 | **Prince of Persia: Rival Swords** | Wii | Nintendo Switch V1 | (BR) | 🟢 | Runs perfect. |
 | **Prince of Persia: Sands of Time** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs near perfect. |
 | **Puyo Puyo!! 7** | Wii | Nintendo Switch V1 | (JP) | 🟢 | Runs perfect. need Game.ini fix for overlapping controls. |
@@ -98,7 +102,7 @@
 | **Sonic Riders: Tournament Edition** | GameCube | Nintendo Lite | - | 🟢 | Runs near perfect. |
 | **Sonic Riders: Zero Gravity** | Wii | Nintendo Switch V1 | - | 🟡 | Runs great, better FPS after first lap. Need more testing. |
 | **Sonic Unleashed** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, FMV slow. |
-| **Sonic: Free Riders** | Wii | Nintendo Switch V1 | (EU) | 🔴 | Crashes on startup. |
+| ~Sonic: Free Riders~ | ~Wii~ | ~Nintendo Switch V1~ | ~(EU)~ | ~🔴~ | ~Crashes on startup.~ |
 | **Soul Calibur II** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs at slowmotion. |
 | **Spider-Man: Friend or Foe** | Wii | Nintendo Switch V1 | - | 🟠 | Runs at half-speed, no graphical errors. |
 | **Sponge Squarepants: The Movie** | GameCube/Wii | Nintendo Switch V1 | (US) | 🟡 | Runs great, default clock speed :warning: softlock possible when bringing up menu by pressing **+** or **Z**. |
@@ -130,6 +134,7 @@
 | **Winning Eleven 6** | GameCube | Nintendo Switch OLED | (JP) | 🟢 | Runs perfect, ENG-text mod used. |
 | **WWE: Day of Reckoning** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, Gameplay is okay, some stutters and slowdowns. |
 | **Viewful Joe 2** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. Disable fog. |
+| **X-Men: Legends** | GameCube | Nintendo Switch V1 | (EU) | 🟡 | Runs okay, minor stutters. |
 | **Zatch Bell: Mamodo Battles** | GameCube | Nintendo Switch V1 | (US) | 🔴 | Menu loads, Start Game locks ROM. |
 | --- | --- | --- | --- | --- | --- |
 
