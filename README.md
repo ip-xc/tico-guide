@@ -88,6 +88,12 @@ A: Your ROMs are put into **sdmc:/tico/roms/<SYSTEM>**. [See here for supported 
 
 A: Cores are "plug-in"-emulators that know how to run certain games for the corresponding system. You can install the Cores via **Emulator** inside **Settings**.
 
+## I don't want to risk getting banned - how do I install cores manually?
+
+A: Download the cores manually from [tico's Github repository](https://github.com/ticohq/).
+
+Download the corresponding core ```EMULATOR-tiicu.nro``` and copy them to ```sdmc:/tico/cores/<SYSTEM>/```.
+
 ## I cannot find Dolphin and GameCube!
 
 A: You have to enable Dolphin under **Experimental**.
