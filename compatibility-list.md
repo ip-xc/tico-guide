@@ -2,8 +2,8 @@
 
 - Be sure to check **Skip GameCube BIOS** under **Settings** --> **Emulation** --> **Dolphin**
 - Try **Disable Fog** for better performance
-- Try *different versions like PAL**. PAL is designed to run at 50Hz instead of 60Hz, that is a ~15% difference in performance need.
-- Use **sys-clk** to temporarily boost overclock. **
+- Try **different versions like PAL**. PAL is designed to run at 50Hz instead of 60Hz, that is a ~15% difference in performance need.
+- Use **sys-clk** to temporarily boost overclock.
 
 ### 🔍 Detailed Status Definitions:
 
