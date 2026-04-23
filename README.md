@@ -44,7 +44,35 @@ For further details about tico, please visit their [Github repository](https://g
 
 # Usage
 
-< COMING SOON >
+To enter the settings menu, press **+** in the home screen (visible in the bottom right).
+
+<div><img width="1024" src="/screenshots/main_menu.jpg" alt="first"></div>
+
+To set custom ROM path, set the path in **General**.
+
+<div><img width="1024" src="/screenshots/custom_path.jpg" alt="first"></div>
+
+To enable **Dolphin**, scroll down to **Experimental** and enable the emulator.
+
+<div><img width="1024" src="/screenshots/enable_dolphin.jpg" alt="first"></div>
+
+To **install cores** over WiFi, scroll down to **Updates** and select a core.
+
+<div><img width="1024" src="/screenshots/install_cores.jpg" alt="first"></div>
+
+To **Skip GameCube BIOS**, go to **Emulator** --> **Dolphin** --> **Emulation** and enable **Skip GameCube Intro**.
+
+<div><img width="1024" src="/screenshots/skip_bios.jpg" alt="first"></div>
+
+To get some better performance, **disable fog** inside **Emulator** --> **Dolphin** --> **Emulation**.
+
+:warning: you can **enable Wait For Shaders** for better performance, loading time will increase.
+
+<div><img width="1024" src="/screenshots/tweak_dolphin.jpg" alt="first"></div>
+
+To rescan games, go to the **Game Menu**, hover the **Console** and **Rescan Games** in the settings menu.
+
+<div><img width="1024" src="/screenshots/rescan_games.jpg" alt="first"></div>
 
 # FAQs
 
