@@ -225,3 +225,9 @@ Copy WiimoteNew.ini to: ```sdmc:\tico\system\gc\Sys\GameSettings```
 
 After accepting the EULA the games ask you if you want to change your clock settings. You have to select NO in that dialog to process.
 If you select YES the game try to send you to the GameCube OSs date and time settings, what on most emulators (including dolphin) ends in a crash.
+
+# Naruto: Super Clash of Ninja 4 and Gekitō Ninja Taisen! 4 
+
+The game might run slow on stock overclock boost. At the time of release, you have to override the Dolphin set overclock for these games.
+
+Download SG4JDA-GNT4.ini from [here](https://github.com/ip-xc/tico-guide/blob/main/SG4JDA-GNT4.ini).
