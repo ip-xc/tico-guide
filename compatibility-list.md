@@ -76,7 +76,8 @@
 | **Mario Kart: Double Dash** | GameCube | Nintendo Switch V1, Lite | - | 🟡 | Runs okay, Gameplay 20-30FPS. Docked Mode V1. |
 | **Mario Kart: Wii** | Wii | Nintendo Switch V1 | - | 🟢 | Runs near perfect, some lag on menu. Need Save fix. |
 | **Mario Party 4** | GameCube | Nintendo Switch V1 | (US) | 🟢 | Runs near perfect, 4-Player Splitscreen works fine. |
-| **Mario Party 6** | Wii | Nintendo Switch V1 | - | 🟡 | Runs great, minor texture issue with text boxes in Mode select. |
+| **Mario Party 6** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, minor texture issue with text boxes in Mode select. |
+| **Mario Party 7** | GameCube | Nintendo Switch V1 | (US) | 🟢 | Runs near perfect, some audio stutters. |
 | **Mario Party 9** | Wii | Nintendo Switch V1 | (PAL) | 🔴 | Crashes on some minigames. |
 | **Mario Power Tennis** | GameCube | Nintendo Switch V1 | (US) | 🟠 | Runs at half-speed, PAL crashes. |
 | **Medal of Honor: Frontline** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs okay, low FPS at explosions. |
