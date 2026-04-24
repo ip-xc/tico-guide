@@ -39,11 +39,13 @@
 | **Club Penguin: Game Day!** | Wii | Nintendo Switch V1 | (PAL) | 🔴 | Unplayable due to motion controls, signifcant slowdowns. |
 | **Crash Bandicoot 4** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Dead Rising: Chop 'til you drop** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs great, some slowdowns to 30-40 FPS. Compile shaders. |
+| **Digimon Rumble Areana 2** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Digimon World 4** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Disney Infinity** | Wii | Nintendo Switch V1 | - | 🔴 | Crashes on startup, needs patches. |
 | **Dragon Ball: Revenge of King Piccolo** | Wii | Nintendo Switch V1 | (PAL/BR-PT) | 🟢 | Runs perfect. |
 | **Dragon Ball Z: Budokai Tenkaichi 2** | Wii | Nintendo Switch V1 | (US) | 🔴 | Crashes on startup. |
 | **Dragon Ball Z: Budokai Tenkaichi 3** | Wii | Nintendo Switch V1 | - | 🟢 | Runs near perfect with stock clock. |
+| **Dragon Ball Z Sagas** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Earth Seeker** | Wii | Nintendo Switch V1 | (JP-Translation) | 🟡 | Runs okay, FMV Slow, Gameplay 15-20 FPS. |
 | **Ed, Edd n Eddy: The Mis-Edventures** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, some slowdowns to 30-40 FPS. |
 | **F1: 2002** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, some slowdowns when NPC pile up. |
@@ -53,8 +55,9 @@
 | **GUN** | GameCube | Nintendo Switch Lite | - | 🔴 | Black screen. |
 | **Guitar Hero: 5** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, Controller remapping required. |
 | **Godzilla: Destroy All Monsters Melee** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, some slowdowns when environment destruction happens / big open areas. Use OC for performance improvements. |
+| **Guitar Hero: 3** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, Controller needs to be remapped. |
 | **Guitar Hero: 5** | Wii | Nintendo Switch V1 | (US) | 🟠 | Needs Logitech Mod to run. |
-| **Guitar Hero: Metaliica** | Wii | Nintendo Switch V1 | (US) | 🟠 | Needs Logitech / Controller Mod to run. Airplane Mode only. |
+| **Guitar Hero: Metallica** | Wii | Nintendo Switch V1 | (US) | 🟠 | Needs Logitech / Controller Mod to run. Airplane Mode only. |
 | **Guitar Hero: World Tour** | Wii | Nintendo Switch V1 | (US) | 🟠 | Needs Guitar Mod to run. |
 | **Harry Potter: Chamber of Secrets** | GameCube | Nintendo Switch V1 | (PAL) | 🟢 | Runs very good, disable fog. |
 | **Harry Potter: Prisoner of Azkabhan** | GameCube | Nintendo Switch V1 | (PAL) | 🔴 | Stuck at loading screen. |
@@ -75,12 +78,15 @@
 | **Mario Party 4** | GameCube | Nintendo Switch V1 | (US) | 🟢 | Runs near perfect, 4-Player Splitscreen works fine. |
 | **Mario Party 6** | Wii | Nintendo Switch V1 | - | 🟡 | Runs great, minor texture issue with text boxes in Mode select. |
 | **Mario Party 9** | Wii | Nintendo Switch V1 | (PAL) | 🔴 | Crashes on some minigames. |
+| **Mario Power Tennis** | GameCube | Nintendo Switch V1 | (US) | 🟠 | Runs at half-speed, PAL crashes. |
 | **Medal of Honor: Frontline** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs okay, low FPS at explosions. |
 | **Medal of Honor: Rising Sun** | GameCube | Nintendo Switch V1 | - | 🔴 | Crashes on startup. |
 | **Mega Man X: Command Mission** | GameCube | Nintendo Switch V1 | (EU) | 🟢 | Runs near perfect. |
 | **Metroid Prime** | GameCube | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, significant slowdowns. |
 | **Michael Jackson: The Experience** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs okay, Gameplay 20-25 FPS. |
 | **Muramasa** | Wii | Nintendo Switch V1 | (US) | 🟢 | Runs near perfect, infrequent stutters. |
+| **Naruto: Gekitō Ninja Taisen! 4** | GameCube | Nintendo Switch V1 | (JP) | 🟢 | Runs near perfect. Needs Game.ini below. |
+| **Naruto: Super Clash of Ninja 4** | GameCube | Nintendo Switch V1 | (JP) | 🟢 | Runs near perfect. Needs Game.ini below. |
 | **Need For Speed: Carbon** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 10-15 FPS. |
 | **Need For Speed: Hot Pursuit** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs okay, few slowdowns and visual glitches in the menu, Gameplay 25-30 FPS. |
 | **Need For Speed: Hot Pursuit 2** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, few slowdowns awhen crashes, Gameplay 28-30 FPS. |
@@ -93,6 +99,7 @@
 | **P.N. 03** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, Gameplay decent FPS. |
 | **Paper Mario: The Thousand-Year Door** | GameCube | Nintendo Switch V1 | (US) | 🔴 | Crashes on startup. |
 | **Phantasy Star Online 1-2** | GameCube | Nintendo Switch V1 | (EU/US) | 🟠 | Runs poorly, freeze during loading screen. Fix below for EULA! |
+| **Pikmin 2** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect after first load-in. |
 | **Pokémon: Colosseum** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 5-10 FPS. |
 | **Poképark: Pikachu's Adventure** | Wii | Nintendo Switch V1 | - | 🔴 | Crashes on after intro. |
 | **Prince of Persia: Rival Swords** | Wii | Nintendo Switch V1 | (BR) | 🟢 | Runs perfect. |
@@ -139,6 +146,8 @@
 | **Super Robot Wars Series (GC)** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, some slowdown when lot of effects or dialogues appear. |
 | **Super Smash Bros: Brawl** | Wii | Nintendo Switch V1 | - | 🟠 | Runs meh, Stutters when lots of effects, Gameplay 2-Player smooth, 4-Player laggy. |
 | **Super Smash Bros: Melee** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs okay, Gameplay 4-Player smooth, some crashing in Classic Mode. Wait for it to compile shaders. |
+| **Super Smash Bros: Project M** | Wii | Nintendo Switch V1 | - | 🟡 | Runs okay, Character selection and menues are slow. |
+| **Super Mario Strikers** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs near perfect, menu stutters. |
 | **Tak and the Power of Juju** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, some slowdown when breaking objects. First level tested. |
 | **Tatsunoko vs. Capcom** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs very poorly at stock clockspeed. Needs more testing. |
 | **Teenage Mutant Ninja Turtles** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs okay, Gameplay 25-30 FPS. |
