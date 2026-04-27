@@ -4,6 +4,7 @@
 - Try **Disable Fog** for better performance
 - Try **different versions like PAL**. PAL is designed to run at 50Hz instead of 60Hz, that is a ~15% difference in performance need.
 - Use **sys-clk** to temporarily boost overclock.
+- :warning: **Game.ini** tweaks are included as of tico v.0.7.1!
 
 ### 🔍 Detailed Status Definitions:
 
@@ -30,11 +31,13 @@
 | **Bload Rayne** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Bloody Roar Primal Fury** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, few minor stutters. |
 | **Bully** | Wii | Nintendo Switch V1 | (EU) | 🟠 | Runs very poorly, FMV full-speed, Gameplay ~10 FPS. |
+| **Burnout 1** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, few minor stutters by compiling shaders. |
 | **Call of Duty: Black Ops (Single Player)** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, some stutters and slow-down. |
 | **Call of Duty: Black Ops (Zombies)** | GameCube | Nintendo Switch V1 | (US) | 🔴 | Stuck at loading screen. |
 | **Call of Duty: Finest Hour** | GameCube | Nintendo Switch Lite | - | 🟠 | Runs poorly, Gameplay 10-15 FPS. |
 | **Capcom vs. SNK 2** | GameCube | Nintendo Switch V1 | (EU/US) | 🔴 | Black screen. |
 | **Cars 2** | Wii | Nintendo Switch V1 | - | 🔴 | Crashes on startup, needs patches. |
+| **Catwoman** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, few minor stutters. |
 | **Chibi Robo** | GameCube/Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs great, Open area bit stuttering. Need higher clock?. |
 | **Club Penguin: Game Day!** | Wii | Nintendo Switch V1 | (PAL) | 🔴 | Unplayable due to motion controls, signifcant slowdowns. |
 | **Crash Bandicoot 4** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
@@ -48,10 +51,11 @@
 | **Dragon Ball Z Sagas** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Earth Seeker** | Wii | Nintendo Switch V1 | (JP-Translation) | 🟡 | Runs okay, FMV Slow, Gameplay 15-20 FPS. |
 | **Ed, Edd n Eddy: The Mis-Edventures** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, some slowdowns to 30-40 FPS. |
+| **Epic Mickey 2** | Wii | Nintendo Switch V1 | - | 🟠 | Runs in slowmotion and stutters, no motion controls. |
 | **F1: 2002** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, some slowdowns when NPC pile up. |
 | **Fire Emblem: Path of Radiance** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, low FPS FMV. Need more testing. |
 | **Fire Emblem: Radiant Dawn** | Wii | Nintendo Switch V1 | - | 🟢 | Runs near perfect with slight overclock. |
-| **Geist** | GameCube | Nintendo Switch V1 | (PAL) | 🔴 | ROM.fvz crashes. |
+| **Geist** | GameCube | Nintendo Switch V1 | (PAL) | 🔴 | Runs very poorly, ROM.fvz crashes. |
 | **GUN** | GameCube | Nintendo Switch Lite | - | 🔴 | Black screen. |
 | **Guitar Hero: 5** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, Controller remapping required. |
 | **Godzilla: Destroy All Monsters Melee** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, some slowdowns when environment destruction happens / big open areas. Use OC for performance improvements. |
@@ -84,6 +88,7 @@
 | **Medal of Honor: Frontline** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs okay, low FPS at explosions. |
 | **Medal of Honor: Rising Sun** | GameCube | Nintendo Switch V1 | - | 🔴 | Crashes on startup. |
 | **Mega Man X: Command Mission** | GameCube | Nintendo Switch V1 | (EU) | 🟢 | Runs near perfect. |
+| **Metal Gear Solid: The Twin Snakes** | GameCube | Nintendo Switch V1 | (EU) | 🟠 | Runs okay, frequent crashes. |
 | **Metroid Prime** | GameCube | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, significant slowdowns. |
 | **Michael Jackson: The Experience** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs okay, Gameplay 20-25 FPS. |
 | **Midway Arcade Treasures 3** | GameCube | Nintendo Switch V1 | (PAL) | 🟡 | Runs okay, FMV very slow, Gam.ini fix below. |
@@ -99,7 +104,7 @@
 | **Need For Speed: Nitro** | Wii | Nintendo Switch V1 | (PAL) | 🟠 | Runs poorly, .iso crashes, .fvz Gameplay 10-20 FPS. |
 | **Need For Speed: Undergound** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 10-15 FPS. |
 | **Need For Speed: Undergound 2** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 10-15 FPS. |
-| **New Super Mario** | Wii | Nintendo Switch V1 | - | 🟡 | Runs okay, FMV some slowdowns, Gameplay ~30 FPS. |
+| **New Super Mario** | Wii | Nintendo Switch V1 | - | 🟡 | Runs okay, FMV some slowdowns, Gameplay ~30 FPS. Needs shader compilation. |
 | **Nicktoons: Attack of Toybots**** | Wii | Nintendo Switch V1 | US | 🟡 | Runs great, game runs slightly too fast. |
 | **P.N. 03** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, Gameplay decent FPS. |
 | **Pac-Man: World 3** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, input delay issue after long idle. |
@@ -110,6 +115,7 @@
 | **Pikmin 2** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect after first load-in. |
 | **Pokémon: Colosseum** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs poorly, FMV Slow, Gameplay 5-10 FPS. |
 | **Poképark: Pikachu's Adventure** | Wii | Nintendo Switch V1 | - | 🔴 | Crashes on after intro. |
+| **Poképark: Beyond Wonders** | Wii | Nintendo Switch V1 | - | 🔴 | Stops at memory problem. Maybe Mario kart Wii fix? |
 | **Pokémon XD** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs great, need Game.ini fix below. |
 | **Prince of Persia: Rival Swords** | Wii | Nintendo Switch V1 | (BR) | 🟢 | Runs perfect. |
 | **Prince of Persia: Sands of Time** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs near perfect. |
@@ -117,6 +123,10 @@
 | **Puyo Puyo!! 7** | Wii | Nintendo Switch V1 | (JP) | 🟢 | Runs perfect. need Game.ini fix for overlapping controls. |
 | **Puyo Puyo!! 20th Anniversary** | Wii | Nintendo Switch V1 | (JP) | 🟢 | Runs perfect. need Game.ini fix for overlapping controls. |
 | **Rayman 3: Hoodlum Havoc** | GameCube | Nintendo Switch V1 | (EU) | 🟢 | Runs perfect. |
+| **Red Steel 1** | Wii | Nintendo Switch V1 | - | 🔴 | Crashes on creating save file. |
+| **Red Steel 2** | Wii | Nintendo Switch V1 | - | 🟠 | Runs in slowmotion, no motion controls. |
+| **Resident Evil 2** | GameCube | Nintendo Switch V1 | (EU) | 🟠 | Runs in slowmotion. |
+| **Resident Evil 3** | GameCube | Nintendo Switch V1 | (EU) | 🟠 | Runs in slowmotion. |
 | **Resident Evil - Code Veronica X** | GameCube | Nintendo Switch Lite | (EU) | 🟠 | Runs in slowmotion. |
 | **Resident Evil - The Darkside Chronicles** | Wii | Nintendo Switch V1 | (US) | 🟠 | Runs poorly, Audio stutters, Gameplay 10-15 FPS. |
 | **Resident Evil - The Darkside Chronicles** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs okay, Gameplay 25-30 FPS. |
@@ -140,6 +150,7 @@
 | ~Sonic: Free Riders~ | ~Wii~ | ~Nintendo Switch V1~ | ~(EU)~ | ~🔴~ | ~Crashes on startup.~ |
 | **Soul Calibur II** | GameCube | Nintendo Switch V1 | - | 🟠 | Runs at slowmotion. |
 | **Spider-Man: Friend or Foe** | Wii | Nintendo Switch V1 | - | 🟠 | Runs at half-speed, no graphical errors. |
+| **Sponegbob: Battle for Bikini Bottom** | GameCube | Nintendo Switch V1 | (US) | 🟠 | Runs very poorly. |
 | **Sponegbob's Boating Bash** | Wii | Nintendo Switch V1 | - | 🟡 | Runs okay, lag when loading and a lot of cars on-screen. |
 | **Spongebob Squarepants: The Movie** | GameCube/Wii | Nintendo Switch V1 | (US) | 🟡 | Runs great, default clock speed :warning: softlock possible when bringing up menu by pressing **+** or **Z**. |
 | **Spongebob's Truth or Square** | Wii | Nintendo Switch V1 | (US) | 🟡 | Runs great, lags on shader compilation. |
@@ -172,10 +183,11 @@
 | **The Simpsons: Hit & Run** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs okay, Gameplay some slowdonws. |
 | **The Simpsons: Road Rage** | GameCube | Nintendo Switch V1 | (US) | 🟡 | Runs great, Gameplay some stutters. |
 | **The Sims 2** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs okay, Gameplay 25-30 FPS. |
-| **Tony Hawks: Underground 2** | GameCube | Nintendo Switch V1 | (EU) | 🔴 | Crashes on startup. |
+| **Tony Hawk's Pro Skater 3** | GameCube | Nintendo Switch V1 | (EU) | 🟡 | Runs poorly, levels stutter. Settings below. |
+| **Tony Hawks: Underground 2** | GameCube | Nintendo Switch V1 | (EU) | 🟠 | Runs only in half-speed (Emulation Speed 50%). |
 | **Toy Story 3** | Wii | Nintendo Switch V1 | - | 🔴 | Crashes on startup, needs patches. |
 | **Turok: Evolution** | GameCube | Nintendo Switch V1 | (EU) | 🟢 | Runs perfect. |
-| **Ultimate Spider-Man** | GameCube | Nintendo Switch V1 | - | 🔴 | Crashes on startup. |
+| **Ultimate Spider-Man** | GameCube | Nintendo Switch V1 | - | 🟡 | Runs okay, Gameplay ~20 FPS. |
 | **Wall-E** | Wii | Nintendo Switch V1 | - | 🟠 | Runs poorly, significant slowdowns. |
 | **Wario World** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Wario: Shake It** | Wii | Nintendo Switch V1 | (PAL) | 🟡 | Runs great, FMV is laggy. Need Wiimotion Controls (see below). |
@@ -188,7 +200,8 @@
 | **Viewful Joe 2** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. Disable fog. |
 | **Viewful Joe: Battle Carnival** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **X-Men: Legends** | GameCube | Nintendo Switch V1 | (EU) | 🟡 | Runs okay, minor stutters. |
-| **Zatch Bell: Mamodo Battles** | GameCube | Nintendo Switch V1 | (US) | 🔴 | Menu loads, Start Game locks ROM. |
+| **Zack & Wiki: Quest for Barabaros' Treasure** | Wii | Nintendo Switch V1 | - | 🔴 | Menu loads, Start Game locks ROM. |
+| **Zatch Bell: Mamodo Battles** | GameCube | Nintendo Switch V1 | (US) | 🟢 | Runs perfect. Needs gyrocscope to play. |
 | --- | --- | --- | --- | --- | --- |
 
 
@@ -246,3 +259,9 @@ Needs underclock of 40-50% for smooth gameplay.
 The game might run slow on stock overclock boost. At the time of release, you have to override the Dolphin set overclock for these games.
 
 Download SG4JDA-GNT4.ini from [here](https://github.com/ip-xc/tico-guide/blob/main/SG4JDA-GNT4.ini).
+
+# Tony Hawk's Pro Skater 3
+
+Best settings found: Thanks to connorthehershysquirtgod on Discord!
+
+Force Progressive ON, Widescreen Hack OFF, 1x Native, CPU Clock 100%, VI Skip Auto, Audio Fill Gaps ON, Shader Async Skip Rendering or Async Ubershaders, Sync GPU OFF, Disable EFB to VRAM OFF, Skip Duplicate Frames ON.
