@@ -102,7 +102,6 @@
 | **Midway Arcade Treasures 3** | GameCube | Nintendo Switch V1 | (PAL) | 🟡 | Runs okay, FMV very slow, Gam.ini fix below. |
 | **Mission Impossible** | GameCube | Nintendo Switch V1 | - | 🟢 | Runs perfect. |
 | **Monster Hunter 3 Tri** | Wii | Nintendo Switch V1 | - | 🟡 | Runs okay, doesn't save. |
-| **Muramasa** | Wii | Nintendo Switch V1 | (US) | 🟢 | Runs near perfect, infrequent stutters. |
 | **Muramasa: The Demon Blade** | Wii | Nintendo Switch V1 | (US) | 🟢 | Runs near perfect, infrequent stutters, slowdowns when any elements on-screen. |
 | **Naruto: Gekitō Ninja Taisen! 4** | GameCube | Nintendo Switch V1 | (JP) | 🟢 | Runs near perfect. Needs Game.ini below. |
 | **Naruto: Super Clash of Ninja 4** | GameCube | Nintendo Switch V1 | (JP) | 🟢 | Runs near perfect. Needs Game.ini below. |
